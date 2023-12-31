@@ -11,4 +11,4 @@ Simple business card app UI. This project is made as part of [Android Basics in 
 - [x] How to build simple layouts with `Row` and `Column` composables, and arrange them with `horizontalAlignment` and `verticalArrangement` parameters.
 - [x] How to customize Compose elements with a Modifier object.
 
-      
+     <img src="https://github.com/Sulekh25/Business-card/blob/main/Screenshot%202023-12-31%20153115.png"> 
